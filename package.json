@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhkhoinguy/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhkhoinguy/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/minhkhoinguy/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "jest-cli": "^28.0.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
